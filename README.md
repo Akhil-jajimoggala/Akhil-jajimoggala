@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akhil-jajimoggala
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Data Science and MERN Stack 
-- 💞️ I’m looking to collaborate on Full Stack Web pages
+- 👀 I’m interested in Cloud and DevOps
+- 🌱 I’m currently learning AWS, Docker, Kubernetes, Terraform etc
 - 📫 Reach me on akhil.jajimoggala@gmail.com
 
 <!---
